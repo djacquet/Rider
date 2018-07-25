@@ -1,1 +1,5 @@
-<keymap version="1" name="Rider copy" parent="Rider" />
+<keymap version="1" name="Rider copy" parent="Rider">
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+</keymap>
