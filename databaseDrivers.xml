@@ -21,12 +21,17 @@
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
-    <driver id="sqlserver.ms">
+    <driver id="sqlserver.ms" name="PatientBilling">
       <artifact name="SQL Server" use="true" version="7.2.1" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <property name="databaseName" value="AMDS_PatientBilling" />
+      <property name="serverName" value="devops-sql01.amds.advancedmd.com\DEV14" />
+      <property name="integratedSecurity" value="true" />
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
