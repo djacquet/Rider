@@ -1,13 +1,36 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="userId" value="cee4ef64-f91f-4885-aa4b-df5204eecb11" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e2ab8c4a-5a30-4962-9278-f0c671a7c7cd&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/_apis/projectCollections/e2ab8c4a-5a30-4962-9278-f0c671a7c7cd&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;AdvancedMD Core Products&quot;,&quot;id&quot;:&quot;5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:176,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/projects/5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;21c59df1-3c5f-4616-8711-422ff30eba5f&quot;,&quot;name&quot;:&quot;AdvancedMD.Services.Invoicing&quot;,&quot;remoteUrl&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/AdvancedMD/_git/AdvancedMD.Services.Invoicing&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/git/repositories/21c59df1-3c5f-4616-8711-422ff30eba5f&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;AdvancedMD Core Products&quot;,&quot;id&quot;:&quot;5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:176,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/projects/5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://tfs2015:8080/tfs/DefaultCollection/AdvancedMD/_git/AdvancedMD.Services.Invoicing" />
+          <option name="serverUri" value="http://tfs2015:8080/tfs" />
+          <option name="userId" value="cee4ef64-f91f-4885-aa4b-df5204eecb11" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e2ab8c4a-5a30-4962-9278-f0c671a7c7cd&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/_apis/projectCollections/e2ab8c4a-5a30-4962-9278-f0c671a7c7cd&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;AdvancedMD Core Products&quot;,&quot;id&quot;:&quot;5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:176,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/projects/5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;21c59df1-3c5f-4616-8711-422ff30eba5f&quot;,&quot;name&quot;:&quot;AdvancedMD.Services.Invoicing&quot;,&quot;remoteUrl&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/AdvancedMD/_git/AdvancedMD.Services.Invoicing&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/git/repositories/21c59df1-3c5f-4616-8711-422ff30eba5f&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;AdvancedMD Core Products&quot;,&quot;id&quot;:&quot;5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:176,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/projects/5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;}}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="tfHome" />
           <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//_tfs_last_used_url_" />
         </PropertyState>
       </array>
     </option>
