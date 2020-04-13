@@ -84,6 +84,15 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d4672534-1a1d-4b3d-92ff-28272888cdb1&quot;,&quot;name&quot;:&quot;WebAPI_AdvancedMD.API.MFCopy&quot;,&quot;remoteUrl&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/AdvancedMD/_git/WebAPI_AdvancedMD.API.MFCopy&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/git/repositories/d4672534-1a1d-4b3d-92ff-28272888cdb1&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;AdvancedMD Core Products&quot;,&quot;id&quot;:&quot;5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:176,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/projects/5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://advancedmd.visualstudio.com/Platform/_git/AdvancedMD.API.Core.Database" />
+          <option name="serverUri" value="https://advancedmd.visualstudio.com" />
+          <option name="userId" value="2517d8b4-3cb9-6aff-8240-f2e762d6ad95" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;3cbe9118-367c-46fc-b35f-787549c61c54&quot;,&quot;name&quot;:&quot;advancedmd&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projectCollections/3cbe9118-367c-46fc-b35f-787549c61c54&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that tend to have implications across the whole platform.&quot;,&quot;id&quot;:&quot;4d78c781-666f-41bb-9439-dad7ba4a6198&quot;,&quot;name&quot;:&quot;Platform&quot;,&quot;revision&quot;:583,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projects/4d78c781-666f-41bb-9439-dad7ba4a6198&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d051dc83-4a02-44f5-80f4-6c11811b0a53&quot;,&quot;name&quot;:&quot;AdvancedMD.API.Core.Database&quot;,&quot;remoteUrl&quot;:&quot;https://advancedmd.visualstudio.com/Platform/_git/AdvancedMD.API.Core.Database&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/git/repositories/d051dc83-4a02-44f5-80f4-6c11811b0a53&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that tend to have implications across the whole platform.&quot;,&quot;id&quot;:&quot;4d78c781-666f-41bb-9439-dad7ba4a6198&quot;,&quot;name&quot;:&quot;Platform&quot;,&quot;revision&quot;:583,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projects/4d78c781-666f-41bb-9439-dad7ba4a6198&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
           <option name="type" value="TFS" />
           <option name="uri" value="http://tfs2015:8080/tfs/DefaultCollection/AdvancedMD/_git/Application_AMC" />
           <option name="serverUri" value="http://tfs2015:8080/tfs" />
@@ -192,7 +201,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//advancedmd.visualstudio.com/platform/_git/advancedmd.api.core.resilience" />
+          <option name="value" value="//advancedmd.visualstudio.com/platform/_git/advancedmd.api.core.database" />
         </PropertyState>
       </array>
     </option>
