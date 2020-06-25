@@ -30,6 +30,15 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;b5efeaf3-3e9f-44b6-aac4-cd2383ff1b6b&quot;,&quot;name&quot;:&quot;AdvancedMD.API.Core.ErrorHandler&quot;,&quot;remoteUrl&quot;:&quot;https://advancedmd.visualstudio.com/Platform/_git/AdvancedMD.API.Core.ErrorHandler&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/git/repositories/b5efeaf3-3e9f-44b6-aac4-cd2383ff1b6b&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that tend to have implications across the whole platform.&quot;,&quot;id&quot;:&quot;4d78c781-666f-41bb-9439-dad7ba4a6198&quot;,&quot;name&quot;:&quot;Platform&quot;,&quot;revision&quot;:583,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projects/4d78c781-666f-41bb-9439-dad7ba4a6198&quot;}}" />
         </ServerContextState>
         <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://advancedmd.visualstudio.com/AdvancedMD/_git/amds-demographics-quickadd" />
+          <option name="serverUri" value="https://advancedmd.visualstudio.com" />
+          <option name="userId" value="2517d8b4-3cb9-6aff-8240-f2e762d6ad95" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;3cbe9118-367c-46fc-b35f-787549c61c54&quot;,&quot;name&quot;:&quot;advancedmd&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projectCollections/3cbe9118-367c-46fc-b35f-787549c61c54&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:600,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;539008ed-af56-4c3d-b1ee-541fdbf9ac90&quot;,&quot;name&quot;:&quot;amds-demographics-quickadd&quot;,&quot;remoteUrl&quot;:&quot;https://advancedmd.visualstudio.com/AdvancedMD/_git/amds-demographics-quickadd&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/git/repositories/539008ed-af56-4c3d-b1ee-541fdbf9ac90&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:600,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
           <option name="type" value="TFS" />
           <option name="uri" value="http://_TFS_LAST_USED_URL_" />
           <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
@@ -102,7 +111,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//_tfs_last_used_url_" />
+          <option name="value" value="//advancedmd.visualstudio.com/advancedmd/_git/amds-demographics-quickadd" />
         </PropertyState>
       </array>
     </option>
