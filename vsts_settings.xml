@@ -67,6 +67,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://advancedmd.visualstudio.com/AdvancedMD/_git/amds-patient" />
+          <option name="serverUri" value="https://advancedmd.visualstudio.com" />
+          <option name="userId" value="2517d8b4-3cb9-6aff-8240-f2e762d6ad95" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;3cbe9118-367c-46fc-b35f-787549c61c54&quot;,&quot;name&quot;:&quot;advancedmd&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projectCollections/3cbe9118-367c-46fc-b35f-787549c61c54&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:604,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;ce4a7b4e-bb58-4e73-8c69-d6a66d22317b&quot;,&quot;name&quot;:&quot;amds-patient&quot;,&quot;remoteUrl&quot;:&quot;https://advancedmd.visualstudio.com/AdvancedMD/_git/amds-patient&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/git/repositories/ce4a7b4e-bb58-4e73-8c69-d6a66d22317b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:604,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://advancedmd.visualstudio.com/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://advancedmd.visualstudio.com/Platform/_git/AdvancedMD.API.Core.Database" />
           <option name="serverUri" value="https://advancedmd.visualstudio.com" />
           <option name="userId" value="2517d8b4-3cb9-6aff-8240-f2e762d6ad95" />
@@ -102,7 +111,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//_tfs_last_used_url_" />
+          <option name="value" value="//advancedmd.visualstudio.com/advancedmd/_git/amds-patient" />
         </PropertyState>
       </array>
     </option>
