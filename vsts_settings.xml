@@ -155,6 +155,15 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;51213701-424a-4df8-9f11-c5407c753846&quot;,&quot;name&quot;:&quot;SQL_ClientDB&quot;,&quot;remoteUrl&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/AdvancedMD/_git/SQL_ClientDB&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/git/repositories/51213701-424a-4df8-9f11-c5407c753846&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;AdvancedMD Core Products&quot;,&quot;id&quot;:&quot;5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:176,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs2015:8080/tfs/DefaultCollection/_apis/projects/5bafae2f-726d-402c-b9e8-d0d3f17466d7&quot;}}" />
         </ServerContextState>
         <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://advancedmd@dev.azure.com/AdvancedMD/AdvancedMD/_git/AdvancedMD.API.Demographic" />
+          <option name="serverUri" value="https://dev.azure.com/AdvancedMD" />
+          <option name="userId" value="2517d8b4-3cb9-6aff-8240-f2e762d6ad95" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;3cbe9118-367c-46fc-b35f-787549c61c54&quot;,&quot;name&quot;:&quot;advancedmd&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/projectCollections/3cbe9118-367c-46fc-b35f-787549c61c54&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:695,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;0935fc6d-fb7c-4189-8d65-1cece4f57a32&quot;,&quot;name&quot;:&quot;AdvancedMD.API.Demographic&quot;,&quot;remoteUrl&quot;:&quot;https://advancedmd@dev.azure.com/AdvancedMD/AdvancedMD/_git/AdvancedMD.API.Demographic&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/git/repositories/0935fc6d-fb7c-4189-8d65-1cece4f57a32&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:695,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
           <option name="type" value="TFS" />
           <option name="uri" value="http://tfs2015:8080/tfs/DefaultCollection/AdvancedMD/_git/Application_AMDS" />
           <option name="serverUri" value="http://tfs2015:8080/tfs" />
@@ -254,7 +263,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//advancedmd@dev.azure.com/advancedmd/advancedmd/_git/advancedmd.api.worklist" />
+          <option name="value" value="//advancedmd@dev.azure.com/advancedmd/advancedmd/_git/advancedmd.api.demographic" />
         </PropertyState>
       </array>
     </option>
