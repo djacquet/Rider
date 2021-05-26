@@ -237,6 +237,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://advancedmd@dev.azure.com/AdvancedMD/AdvancedMD/_git/AdvancedMD.API.Scheduler" />
+          <option name="serverUri" value="https://dev.azure.com/AdvancedMD" />
+          <option name="userId" value="2517d8b4-3cb9-6aff-8240-f2e762d6ad95" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;3cbe9118-367c-46fc-b35f-787549c61c54&quot;,&quot;name&quot;:&quot;advancedmd&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/projectCollections/3cbe9118-367c-46fc-b35f-787549c61c54&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:739,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;2577b0f0-ca90-497a-95b4-0f28f51eb121&quot;,&quot;name&quot;:&quot;AdvancedMD.API.Scheduler&quot;,&quot;remoteUrl&quot;:&quot;https://advancedmd@dev.azure.com/AdvancedMD/AdvancedMD/_git/AdvancedMD.API.Scheduler&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/git/repositories/2577b0f0-ca90-497a-95b4-0f28f51eb121&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This project contains the repositories that are deployed to the various environments. They should be the project that kicks off the deployment pipeline.&quot;,&quot;id&quot;:&quot;dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;,&quot;name&quot;:&quot;AdvancedMD&quot;,&quot;revision&quot;:739,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/AdvancedMD/_apis/projects/dfeafeb5-3436-433f-b6ee-87100ba99fca&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://advancedmd@dev.azure.com/AdvancedMD/AdvancedMD/_git/AdvancedMD.API.Locator" />
           <option name="serverUri" value="https://dev.azure.com/AdvancedMD" />
           <option name="userId" value="2517d8b4-3cb9-6aff-8240-f2e762d6ad95" />
@@ -281,7 +290,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//advancedmd@dev.azure.com/advancedmd/advancedmd/_git/advancedmd.api.user" />
+          <option name="value" value="//advancedmd@dev.azure.com/advancedmd/advancedmd/_git/advancedmd.api.scheduler" />
         </PropertyState>
       </array>
     </option>
