@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="VersionDbThunderbolts" uuid="b0dd22b6-50c4-41fb-903b-30b6744612e9">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://devops-sql01.amds.advancedmd.com\DEV14</jdbc-url>
+    </data-source>
+  </component>
+</application>

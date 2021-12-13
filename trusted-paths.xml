@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Dev" />
+        <option value="C:\AdvancedMD" />
+      </list>
+    </option>
+  </component>
+</application>

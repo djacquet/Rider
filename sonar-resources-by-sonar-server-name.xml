@@ -1,0 +1,474 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="Amd Sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.ApiAccess" />
+                <option name="name" value="AdvancedMD.API.ApiAccess" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.AppointmentsPooling" />
+                <option name="name" value="AdvancedMD.API.AppointmentsPooling" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Authentication" />
+                <option name="name" value="AdvancedMD.API.Authentication" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Ccda" />
+                <option name="name" value="AdvancedMD.API.Ccda" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.CcdaTransmitter" />
+                <option name="name" value="AdvancedMD.API.CcdaTransmitter" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.ClaimDownloadHandler" />
+                <option name="name" value="AdvancedMD.API.ClaimDownloadHandler" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Clinical.DataExport" />
+                <option name="name" value="AdvancedMD.API.Clinical.DataExport" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Clinical.Eprescribe.Gateway" />
+                <option name="name" value="AdvancedMD.API.Clinical.Eprescribe.Gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Clinical.Prescribing" />
+                <option name="name" value="AdvancedMD.API.Clinical.Prescribing" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.BulkPatch" />
+                <option name="name" value="AdvancedMD.API.Core.BulkPatch" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.Consul" />
+                <option name="name" value="AdvancedMD.API.Core.Consul" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.Encryption" />
+                <option name="name" value="AdvancedMD.API.Core.Encryption" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.ErrorHandler" />
+                <option name="name" value="AdvancedMD.API.Core.ErrorHandler" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.Logging" />
+                <option name="name" value="AdvancedMD.API.Core.Logging" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.Portal.Caching" />
+                <option name="name" value="AdvancedMD.API.Core.Portal.Caching" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.S3Client" />
+                <option name="name" value="AdvancedMD.API.Core.S3Client" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.Serialization" />
+                <option name="name" value="AdvancedMD.API.Core.Serialization" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.Vault" />
+                <option name="name" value="AdvancedMD.API.Core.Vault" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Core.Versioning" />
+                <option name="name" value="AdvancedMD.API.Core.Versioning" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.DocumentsCore" />
+                <option name="name" value="AdvancedMD.API.DocumentsCore" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.ERA" />
+                <option name="name" value="AdvancedMD.API.ERA" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Edi.Shared" />
+                <option name="name" value="AdvancedMD.API.Edi.Shared" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Eprescribe.Gateway" />
+                <option name="name" value="AdvancedMD.API.Eprescribe.Gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Messages" />
+                <option name="name" value="AdvancedMD.API.Messages" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Narrative" />
+                <option name="name" value="AdvancedMD.API.Narrative" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Notes" />
+                <option name="name" value="AdvancedMD.API.Notes" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Provider" />
+                <option name="name" value="AdvancedMD.API.Provider" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Review" />
+                <option name="name" value="AdvancedMD.API.Review" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.Rooming" />
+                <option name="name" value="AdvancedMD.API.Rooming" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.System" />
+                <option name="name" value="AdvancedMD.API.System" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.UserRolePermissions" />
+                <option name="name" value="AdvancedMD.API.UserRolePermissions" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.API.WebLinks" />
+                <option name="name" value="AdvancedMD.API.WebLinks" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.ClaimDownloadHandler" />
+                <option name="name" value="AdvancedMD.ClaimDownloadHandler" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.Clinical.DataExport.Processor" />
+                <option name="name" value="AdvancedMD.Clinical.DataExport.Processor" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.Core.Shared.AnsiConversion" />
+                <option name="name" value="AdvancedMD.Core.Shared.AnsiConversion" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.Core.Shared.Mail" />
+                <option name="name" value="AdvancedMD.Core.Shared.Mail" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.Core.Shared.Testing" />
+                <option name="name" value="AdvancedMD.Core.Shared.Testing" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.Core.Shared.UrlUtility" />
+                <option name="name" value="AdvancedMD.Core.Shared.UrlUtility" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.DistributionCacheKeys.Shared" />
+                <option name="name" value="AdvancedMD.DistributionCacheKeys.Shared" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.ERA.Automation.Service" />
+                <option name="name" value="AdvancedMD.ERA.Automation.Service" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.Telemed" />
+                <option name="name" value="AdvancedMD.Telemed" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="AdvancedMD.TrainingTracker" />
+                <option name="name" value="AdvancedMD.TrainingTracker" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Application_AdvancedMD.Portal" />
+                <option name="name" value="Application_AdvancedMD.Portal" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Application_WebClinical_vNext" />
+                <option name="name" value="Application_WebClinical_vNext" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="ClaimDownloadHandler" />
+                <option name="name" value="ClaimDownloadHandler" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="OPR_PasswordChange" />
+                <option name="name" value="OPR_PasswordChange" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PE_PortalLogin" />
+                <option name="name" value="PE_PortalLogin" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PE_WebAPI_AdvancedMD.Messaging" />
+                <option name="name" value="PE_WebAPI_AdvancedMD.Messaging" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_API_AdvancedMD.ERA" />
+                <option name="name" value="PM_API_AdvancedMD.ERA" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_API_AdvancedMD.MFCopy" />
+                <option name="name" value="PM_API_AdvancedMD.MFCopy" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_API_AdvancedMD.PaymentReconciliation" />
+                <option name="name" value="PM_API_AdvancedMD.PaymentReconciliation" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_API" />
+                <option name="name" value="PM_MiddleTier_API" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_AdvancedMD.Gateway" />
+                <option name="name" value="PM_MiddleTier_AdvancedMD.Gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_AdvancedMD.Security" />
+                <option name="name" value="PM_MiddleTier_AdvancedMD.Security" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Gateway" />
+                <option name="name" value="PM_MiddleTier_Gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_HealthAgency" />
+                <option name="name" value="PM_MiddleTier_HealthAgency" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Lab" />
+                <option name="name" value="PM_MiddleTier_Lab" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Lookup" />
+                <option name="name" value="PM_MiddleTier_Lookup" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Messaging" />
+                <option name="name" value="PM_MiddleTier_Messaging" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Mobile" />
+                <option name="name" value="PM_MiddleTier_Mobile" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_OpenXml" />
+                <option name="name" value="PM_MiddleTier_OpenXml" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_PatientEducation" />
+                <option name="name" value="PM_MiddleTier_PatientEducation" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_PatientGateway" />
+                <option name="name" value="PM_MiddleTier_PatientGateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_PaymentProcessing" />
+                <option name="name" value="PM_MiddleTier_PaymentProcessing" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Performance" />
+                <option name="name" value="PM_MiddleTier_Performance" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Portal" />
+                <option name="name" value="PM_MiddleTier_Portal" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_ReportScheduling" />
+                <option name="name" value="PM_MiddleTier_ReportScheduling" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Scheduler" />
+                <option name="name" value="PM_MiddleTier_Scheduler" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Security" />
+                <option name="name" value="PM_MiddleTier_Security" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_Tracker" />
+                <option name="name" value="PM_MiddleTier_Tracker" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_MiddleTier_TransactionEntry" />
+                <option name="name" value="PM_MiddleTier_TransactionEntry" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_Service_AdvancedMD.Claim.RhythmDirectDownloadService" />
+                <option name="name" value="PM_Service_AdvancedMD.Claim.RhythmDirectDownloadService" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_Service_AdvancedMD.Claim.RhythmDirectUploadService" />
+                <option name="name" value="PM_Service_AdvancedMD.Claim.RhythmDirectUploadService" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_Service_AdvancedMD.ClaimService" />
+                <option name="name" value="PM_Service_AdvancedMD.ClaimService" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PM_Service_AdvancedMD.MFCopy" />
+                <option name="name" value="PM_Service_AdvancedMD.MFCopy" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Python-Gungnir" />
+                <option name="name" value="Python-Gungnir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Python-Project" />
+                <option name="name" value="Python-Project" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="amds-patient-chart" />
+                <option name="name" value="ReactJS demo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Service_AdvancedMD.Messaging" />
+                <option name="name" value="Service_AdvancedMD.Messaging" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Service_AdvancedMD.NarrativeGenerator" />
+                <option name="name" value="Service_AdvancedMD.NarrativeGenerator" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Tools_SQL_DataImport" />
+                <option name="name" value="Tools_SQL_DataImport" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.Intake" />
+                <option name="name" value="WebAPI_AdvancedMD.API.Intake" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.Portal.AppointmentReminders" />
+                <option name="name" value="WebAPI_AdvancedMD.API.Portal.AppointmentReminders" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.Portal.Lookup" />
+                <option name="name" value="WebAPI_AdvancedMD.API.Portal.Lookup" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.Referral" />
+                <option name="name" value="WebAPI_AdvancedMD.API.Referral" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.Scheduler" />
+                <option name="name" value="WebAPI_AdvancedMD.API.Scheduler" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.System" />
+                <option name="name" value="WebAPI_AdvancedMD.API.System" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.Transaction" />
+                <option name="name" value="WebAPI_AdvancedMD.API.Transaction" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebAPI_AdvancedMD.API.User" />
+                <option name="name" value="WebAPI_AdvancedMD.API.User" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="WebService_LabWebService" />
+                <option name="name" value="WebService_LabWebService" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="amds-ehr-common" />
+                <option name="name" value="amds-ehr-common" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="amds-ehr-shell" />
+                <option name="name" value="amds-ehr-shell" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

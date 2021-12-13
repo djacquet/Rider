@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="xUnitToSingle">
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordEnd" />
+      <typing text-keycode="83:1;73:0;78:0;71:0;76:0;69:0">Single</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+    </macro>
+  </component>
+</application>
