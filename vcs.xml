@@ -6,6 +6,10 @@
           <option name="url" value="http://tfs2015:8080" />
           <option name="userName" value="darren.jacquet" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://membersports.visualstudio.com" />
+          <option name="userName" value="darren.jacquet@membersports.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
